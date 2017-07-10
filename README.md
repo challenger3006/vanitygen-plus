@@ -40,7 +40,7 @@ cd vanitygen-plus
 make all  
 
 Windows Binary (Compiled on Win7 64bit)  
-https://github.com/cnote2017/vanitygen-plus/VanityGen%20Plus%20CNote%20Windows.7z
+https://github.com/cnote2017/vanitygen-plus/blob/master/VanityGen%20Plus%20CNote%20Windows.7z
 
 Extract the files,  
 open a terminal/command prompt,  
